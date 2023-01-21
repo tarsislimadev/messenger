@@ -1,0 +1,5 @@
+# Messenger
+
+## License
+
+[MIT](./LICENSE)
