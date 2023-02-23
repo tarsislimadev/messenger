@@ -1,8 +1,8 @@
 FROM python:3.10
 
-ENV PATH=/data
+ENV APP_PATH=/data
 
-ENV PORT=80
+ENV APP_PORT=80
 
 WORKDIR /app
 
